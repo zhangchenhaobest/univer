@@ -1,3 +1,29 @@
+# univer
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 Univer Office SDK 构建自己的 AI Office，把编辑、计算、协作与文件处理带入产品，服务人与 AI Agent。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <a id="readme-top"></a>
 
 <p align="center"><img src="./docs/img/readme/hero-banner.png" alt="Univer Office SDK" width="960" /></p>
